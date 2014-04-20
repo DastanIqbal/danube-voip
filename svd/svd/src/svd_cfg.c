@@ -74,7 +74,7 @@ static unsigned char g_err_no;
 #define CONF_WLEC_NLP_ON   "on"
 #define CONF_WLEC_NLP_OFF  "off"
 /*First "real" codec (index 0 in various arrays)*/
-#define CODEC_BASE cod_type_G722
+#define CODEC_BASE cod_type_G722_64
 
 /**
  * Ab context for configuration functions
